@@ -26,8 +26,8 @@ The goal is to maximise the number of content children.
 ```java
 /*
 Program to implement Assign Cookies using Greedy Algorithm
-Developed by: SANJAYKUMAR N B
-Register Number: 212223230189
+Developed by: PRIYANKA K
+Register Number: 212223230162
 */
 import java.util.*;
 
